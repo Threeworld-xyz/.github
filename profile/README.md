@@ -9,8 +9,8 @@
 
 <a href="https://threeworld.xyz"><img alt="Website" src="https://img.shields.io/badge/threeworld.xyz-0A0A0A?style=for-the-badge&logoColor=white&labelColor=0A0A0A"></a>
 <a href="https://twitter.com/ThreeworldHQ"><img alt="Twitter" src="https://img.shields.io/badge/@ThreeworldHQ-0A0A0A?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A"></a>
-<a href="https://threeworld.xyz/docs"><img alt="Docs" src="https://img.shields.io/badge/docs-F5B94A?style=for-the-badge&labelColor=F5B94A&color=F5B94A"></a>
-<img alt="Status" src="https://img.shields.io/badge/status-in%20active%20build-9A9690?style=for-the-badge&labelColor=9A9690">
+<a href="https://threeworld.xyz/docs"><img alt="Docs" src="https://img.shields.io/badge/docs-FAFAF7?style=for-the-badge&labelColor=FAFAF7&color=FAFAF7"></a>
+<img alt="Status" src="https://img.shields.io/badge/status-in%20active%20build-3A3A36?style=for-the-badge&labelColor=3A3A36">
 
 </div>
 
@@ -33,13 +33,13 @@ The problem: those slices live across a growing pile of platforms, each with its
 <td valign="top" width="50%">
 
 ### **Marketplace**
-Browse hundreds of fractional properties from every major platform in one place. Filter by price, yield, type, and location.
+Hundreds of fractional properties from every major platform. Filter by price, yield, type, location.
 
 ### **3D&nbsp;Globe&nbsp;Explorer**
-A live, spinning globe of every listing on the network. Click a marker, preview the property, see the numbers.
+A live globe of every listing on the network. Click a marker, preview the property.
 
 ### **Analytics Dashboard**
-Market-wide stats, yield distributions, top performers — across all platforms, not just one.
+Market-wide stats, yield distributions, top performers — across all platforms.
 
 </td>
 <td valign="top" width="50%">
@@ -48,10 +48,10 @@ Market-wide stats, yield distributions, top performers — across all platforms,
 Save the properties you're eyeing. Get notified when prices move.
 
 ### **AI&nbsp;Assistant**
-Ask anything about a property, the market, or how fractional investing works. In plain English.
+Ask anything about a property, the market, or fractional investing. In plain English.
 
 ### **Free to browse**
-Email and 18+ — that's the entire signup. No credit card. No upfront KYC. The marketplace, the globe, and the analytics are open before you commit a dollar.
+Email and 18+. No credit card, no KYC. The whole atlas is open before you commit a dollar.
 
 </td>
 </tr>
