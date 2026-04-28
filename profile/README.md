@@ -38,9 +38,6 @@ Browse hundreds of fractional properties from every major platform in one place.
 ### **3D&nbsp;Globe&nbsp;Explorer**
 A live, spinning globe of every listing on the network. Click a marker, preview the property, see the numbers.
 
-### **Portfolio Tracker**
-Every property you own, every dividend you've collected, every platform you've connected — in a single view. Export it for tax season.
-
 ### **Analytics Dashboard**
 Market-wide stats, yield distributions, top performers — across all platforms, not just one.
 
@@ -52,9 +49,6 @@ Save the properties you're eyeing. Get notified when prices move.
 
 ### **AI&nbsp;Assistant**
 Ask anything about a property, the market, or how fractional investing works. In plain English.
-
-### **Connected Accounts**
-Read-only OAuth into the platforms you already use. We can never move funds, sign trades, or place orders. **We only ever look.**
 
 ### **Free to browse**
 Email and 18+ — that's the entire signup. No credit card. No upfront KYC. The marketplace, the globe, and the analytics are open before you commit a dollar.
@@ -116,11 +110,11 @@ Email and 18+ — that's the entire signup. No credit card. No upfront KYC. The 
 </tr>
 <tr>
 <td><kbd>&nbsp;03&nbsp;</kbd></td>
-<td><strong>Connect your accounts.</strong> Read-only OAuth into platforms you already use. We surface what's there. We never move it.</td>
+<td><strong>Track what you watch.</strong> Save listings, follow yields, get notified when prices move.</td>
 </tr>
 <tr>
 <td><kbd>&nbsp;04&nbsp;</kbd></td>
-<td><strong>Watch the portfolio grow.</strong> Every property, every dividend, every platform — one place.</td>
+<td><strong>Ask anything.</strong> The AI assistant explains properties, markets, and the mechanics of fractional investing — in plain English.</td>
 </tr>
 </table>
 
@@ -130,9 +124,9 @@ Email and 18+ — that's the entire signup. No credit card. No upfront KYC. The 
 
 Threeworld is **read-only by architecture**.
 
-We don't custody money. We don't execute trades. We don't sign anything on your behalf. Your funds and your transactions stay with the regulated platforms that issue them — we surface what's available across the field, and unify what you already own.
+We don't custody money. We don't execute trades. We don't sign anything on your behalf. Your funds and your transactions stay with the regulated platforms that issue them — we surface what's available across the field.
 
-If we get hacked tomorrow, the worst case is someone sees your portfolio. They cannot move it.
+We are a discovery layer, not a brokerage. The line is intentional, and it isn't going to move.
 
 ---
 
