@@ -156,7 +156,6 @@ Anyone curious about owning a slice of the world.
 | **Website** | [threeworld.xyz](https://threeworld.xyz) |
 | **Docs** | [threeworld.xyz/docs](https://threeworld.xyz/docs) |
 | **Twitter / X** | [@ThreeworldHQ](https://twitter.com/ThreeworldHQ) |
-| **Email** | [hello@threeworld.xyz](mailto:hello@threeworld.xyz) |
 
 ---
 
