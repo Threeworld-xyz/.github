@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Threeworld-xyz/.github/main/profile/assets/hero-dark.svg">
-  <img alt="Threeworld — Like Zillow, but for owning property shares. No million-dollar down payment." src="https://raw.githubusercontent.com/Threeworld-xyz/.github/main/profile/assets/hero-light.svg" width="100%">
+  <img alt="Threeworld — One place for all your fractional real estate." src="https://raw.githubusercontent.com/Threeworld-xyz/.github/main/profile/assets/hero-light.svg" width="100%">
 </picture>
 
 <br/>
