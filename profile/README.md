@@ -9,8 +9,7 @@
 
 <a href="https://threeworld.xyz"><img alt="Website" src="https://img.shields.io/badge/threeworld.xyz-0A0A0A?style=for-the-badge&logoColor=white&labelColor=0A0A0A"></a>
 <a href="https://twitter.com/ThreeworldHQ"><img alt="Twitter" src="https://img.shields.io/badge/@ThreeworldHQ-0A0A0A?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A"></a>
-<a href="https://threeworld.xyz/docs"><img alt="Docs" src="https://img.shields.io/badge/docs-FAFAF7?style=for-the-badge&labelColor=FAFAF7&color=FAFAF7"></a>
-<img alt="Status" src="https://img.shields.io/badge/status-in%20active%20build-3A3A36?style=for-the-badge&labelColor=3A3A36">
+<a href="https://threeworld.xyz/docs"><img alt="Docs" src="https://img.shields.io/badge/docs-0A0A0A?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A"></a>
 
 </div>
 
