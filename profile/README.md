@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://threeworld.xyz"><img alt="Website" src="https://img.shields.io/badge/threeworld.xyz-0A0A0A?style=for-the-badge&logoColor=white&labelColor=0A0A0A"></a>
-<a href="https://twitter.com/threeworld_xyz"><img alt="Twitter" src="https://img.shields.io/badge/@threeworld__xyz-0A0A0A?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A"></a>
+<a href="https://twitter.com/ThreeworldHQ"><img alt="Twitter" src="https://img.shields.io/badge/@ThreeworldHQ-0A0A0A?style=for-the-badge&logo=x&logoColor=white&labelColor=0A0A0A"></a>
 <a href="https://threeworld.xyz/docs"><img alt="Docs" src="https://img.shields.io/badge/docs-F5B94A?style=for-the-badge&labelColor=F5B94A&color=F5B94A"></a>
 <img alt="Status" src="https://img.shields.io/badge/status-in%20active%20build-9A9690?style=for-the-badge&labelColor=9A9690">
 
@@ -152,7 +152,7 @@ Anyone curious about owning a slice of the world.
 |---|---|
 | **Website** | [threeworld.xyz](https://threeworld.xyz) |
 | **Docs** | [threeworld.xyz/docs](https://threeworld.xyz/docs) |
-| **Twitter / X** | [@threeworld_xyz](https://twitter.com/threeworld_xyz) |
+| **Twitter / X** | [@ThreeworldHQ](https://twitter.com/ThreeworldHQ) |
 | **Email** | [hello@threeworld.xyz](mailto:hello@threeworld.xyz) |
 
 ---
