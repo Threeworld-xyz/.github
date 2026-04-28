@@ -102,7 +102,7 @@ Email and 18+. No credit card, no KYC. The whole atlas is open before you commit
 </tbody>
 </table>
 
-<sub>More platforms in the queue. If you're operating one and want in, <a href="mailto:hello@threeworld.xyz">say hello</a>.</sub>
+<sub>More platforms in the queue.</sub>
 
 ---
 
@@ -161,7 +161,7 @@ Anyone curious about owning a slice of the world.
 
 ## VIII.&nbsp;&nbsp;About this org
 
-The repositories below house the platform, the web client, the partner integrations, and the tooling that keeps it all running. Most are private while we're in active build. If you're a developer who'd like to contribute when we open up — <a href="mailto:hello@threeworld.xyz">say hi</a>.
+The repositories below house the platform, the web client, the partner integrations, and the tooling that keeps it all running. Most are private while we're in active build.
 
 <br/>
 
