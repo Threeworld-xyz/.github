@@ -71,22 +71,22 @@ Email and 18+ — that's the entire signup. No credit card. No upfront KYC. The 
 </thead>
 <tbody>
 <tr>
-<td><a href="https://arrived.com"><strong>Arrived</strong></a></td>
+<td><a href="https://arrived.com"><strong>Arrived&nbsp;Homes</strong></a></td>
 <td>Single-family rentals across the US, from $100.</td>
 <td>SEC Reg&nbsp;A+</td>
 </tr>
 <tr>
-<td><a href="https://getstake.com"><strong>Stake</strong></a></td>
+<td><a href="https://getstake.com"><strong>GetStake</strong></a></td>
 <td>Residential rentals in the UAE & Saudi Arabia, from ~$136.</td>
 <td>DFSA &amp; Saudi&nbsp;CMA</td>
 </tr>
 <tr>
-<td><a href="https://mogul.club"><strong>Mogul</strong></a></td>
+<td><a href="https://mogul.club"><strong>Mogul&nbsp;Club</strong></a></td>
 <td>Curated short-, mid-, long-term rentals & sale-leasebacks, from $250.</td>
 <td>Avalanche-backed</td>
 </tr>
 <tr>
-<td><a href="https://solslot.com"><strong>Sols&nbsp;Lot</strong></a></td>
+<td><a href="https://solslot.com"><strong>SolSlot</strong></a></td>
 <td>Fractional appreciation rights on US homes via Digital Assignment Contracts.</td>
 <td>Chia blockchain</td>
 </tr>
