@@ -66,29 +66,39 @@ Email and 18+ — that's the entire signup. No credit card. No upfront KYC. The 
 <tr>
 <th align="left">Platform</th>
 <th align="left">What it does</th>
-<th align="left">How it's regulated</th>
+<th align="left">Tech&nbsp;/&nbsp;regulation</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://arrivedhomes.com"><strong>Arrived&nbsp;Homes</strong></a></td>
-<td>Single-family rentals across the United States.</td>
+<td><a href="https://arrived.com"><strong>Arrived</strong></a></td>
+<td>Single-family rentals across the US, from $100.</td>
 <td>SEC Reg&nbsp;A+</td>
 </tr>
 <tr>
-<td><a href="https://getstake.com"><strong>GetStake</strong></a></td>
-<td>Fractional properties in emerging markets.</td>
-<td>DFSA-licensed (Dubai)</td>
+<td><a href="https://getstake.com"><strong>Stake</strong></a></td>
+<td>Residential rentals in the UAE & Saudi Arabia, from ~$136.</td>
+<td>DFSA &amp; Saudi&nbsp;CMA</td>
 </tr>
 <tr>
-<td><a href="https://lofty.ai"><strong>Lofty</strong></a></td>
-<td>Tokenized rentals on the Algorand blockchain.</td>
-<td>Smart-contract / token</td>
+<td><a href="https://mogul.club"><strong>Mogul</strong></a></td>
+<td>Curated short-, mid-, long-term rentals & sale-leasebacks, from $250.</td>
+<td>Avalanche-backed</td>
 </tr>
 <tr>
-<td><a href="https://realt.co"><strong>RealT</strong></a></td>
-<td>Tokenized real estate, primarily Detroit.</td>
-<td>Smart-contract / token</td>
+<td><a href="https://solslot.com"><strong>Sols&nbsp;Lot</strong></a></td>
+<td>Fractional appreciation rights on US homes via Digital Assignment Contracts.</td>
+<td>Chia blockchain</td>
+</tr>
+<tr>
+<td><a href="https://lofty.ai"><strong>Lofty</strong></a> <sub><i>coming soon</i></sub></td>
+<td>Tokenized US rentals with daily USDC dividends, from $50.</td>
+<td>Algorand blockchain</td>
+</tr>
+<tr>
+<td><a href="https://realt.co"><strong>RealT</strong></a> <sub><i>coming soon</i></sub></td>
+<td>Tokenized US, Panama & Colombia rentals with weekly stablecoin rent.</td>
+<td>Ethereum / Gnosis</td>
 </tr>
 </tbody>
 </table>
